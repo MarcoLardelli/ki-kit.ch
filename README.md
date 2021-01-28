@@ -5,4 +5,4 @@ Den vollständigen Kurs (PDF-Dateien) und die Lernspiele findest du auf [ki-kit.
 
 (c) Marco Lardelli
 
-MIT-Lizenz
+Lizenz für Roboter-Code: MIT-Lizenz
