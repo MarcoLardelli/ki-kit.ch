@@ -4,4 +4,5 @@
 Den vollständigen Kurs (PDF-Dateien) und die Lernspiele findest du auf [ki-kit.ch](https://ki-kit.ch).
 
 (c) Marco Lardelli
+
 MIT-Lizenz
